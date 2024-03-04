@@ -3,4 +3,4 @@
 ### Hecho por Álvaro Maza Escolar y Guillermo García González del grado en Robótica e Inteligencia Artificial de la UCJC
 #### Para lanzarlo, primero es necesario instalar la ultima version de python3 con todas las librerias usando el comando *sudo apt install python3.11-full* despues se lanza desde la terminal de linux con el comando *bash terminal.sh* este comando tambien imprime el PIB del scrip que se usara posteriormente para finalizar el proceso con el comando *kill -9 (pib)*
 > Para obtener una lista de los comandos personalizados utilizar *ms_help*
- 
+> Para los dibujos se ha usado parte del codigo de Rubén González encontrado en su telegram: https://t.me/glez_rbn/6
